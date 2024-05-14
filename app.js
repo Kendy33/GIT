@@ -1,1 +1,1 @@
-console.log("ahojky laska");
+console.log("ahojky, ako to ide mojko");
