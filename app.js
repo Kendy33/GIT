@@ -1,3 +1,3 @@
-function loggedIn() {
-    return true;
+function app() {
+    //redirect to registers
 }
