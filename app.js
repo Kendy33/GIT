@@ -1,1 +1,3 @@
-console.log("ahojky, ako to ide mojko");
+function loggedIn() {
+    return true;
+}
